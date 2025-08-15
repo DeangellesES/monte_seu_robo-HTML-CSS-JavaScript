@@ -1,7 +1,7 @@
 <h1>Projeto: Jogo fictício monte seu Robo</h1>
 
 <h2>📌 Sobre o Projeto</h2>
-<p>Projeto front-end de um jogo fictício de criação robos e suas careacterísticas, desenvolvido para estudar e práticar JavaScript.</p>
+<p>Projeto front-end de um jogo fictício de criação robos e suas careacterísticas, desenvolvido para estudar e praticar JavaScript.</p>
 
 <h3>💻<a href="https://deangelleses.github.io/monte_seu_robo-HTML-CSS-JavaScript/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
