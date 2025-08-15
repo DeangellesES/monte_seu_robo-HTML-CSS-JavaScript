@@ -9,7 +9,7 @@
 <ul>
   <li><b>HTML</b></li>
   <li><b>CSS</b></li>
-  <li><b>JavaScript</b> vanilla</li>
+  <li><b>JavaScript</b> - vanilla</li>
 </ul>
 
 <h2>⚙️ Funcionalidades</h2>
