@@ -25,5 +25,6 @@
   <li>Manipulação do DOM com JavaScript</li>
   <li>Boa forma de criação de classes</li>
   <li>background-image de fundo</li>
+  <li>Paradgima de Programação Estruturado</li>
   <li>tag figcaption</li>
 </ul>
